@@ -2,14 +2,14 @@
 //  CHATBOXApp.swift
 //  CHATBOX
 //
-//  Created by 李瑞祥 on 2025/6/1.
+//  Created by Ruixiang on 2025/6/1.
 //
 
 //
 //  CHATBOXApp.swift
 //  CHATBOX
 //
-//  Created by 李瑞祥 on 2025/6/1.
+//  Created by Ruixiang on 2025/6/1.
 //
 
 import SwiftUI
