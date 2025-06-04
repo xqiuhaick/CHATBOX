@@ -2,7 +2,7 @@
 //  CHATBOXUITests.swift
 //  CHATBOXUITests
 //
-//  Created by 李瑞祥 on 2025/6/1.
+//  Created by liruixiang on 2025/6/1.
 //
 
 import XCTest
