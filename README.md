@@ -1,5 +1,5 @@
 💬 CHATBOX
-
+提供建议 请发送至 qiuhai3@outlook.com
 CHATBOX 是一款基于 SwiftUI 构建的 macOS 原生 AI 聊天客户端，支持 OpenAI、硅基流动（DeepSeek）、Google Gemini 等主流大模型服务，界面简洁，交互顺畅，支持 Markdown、多会话、主题切换等功能。
 
 ✨ 功能亮点
