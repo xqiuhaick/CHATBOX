@@ -67,6 +67,3 @@ open CHATBOX.xcodeproj
 
 MIT License
 
-⸻
-
-如果你希望我生成 .md 文件内容用于直接复制，或者想要包含徽标、Badge、截图占位图链接、使用 gif 预览等，也可以告诉我，我帮你完善。是否要继续输出成 markdown 文件格式？
