@@ -1,7 +1,3 @@
-当然可以！根据你提供的代码，这是一款为 macOS 打造的现代化聊天客户端，支持多家 AI 模型接入（OpenAI、硅基流动、Google Gemini），具有良好的界面布局和主题适配能力。下面是为此项目撰写的 README.md 示例内容：
-
-⸻
-
 💬 CHATBOX
 
 CHATBOX 是一款基于 SwiftUI 构建的 macOS 原生 AI 聊天客户端，支持 OpenAI、硅基流动（DeepSeek）、Google Gemini 等主流大模型服务，界面简洁，交互顺畅，支持 Markdown、多会话、主题切换等功能。
