@@ -1,0 +1,17 @@
+.DS_Store
+
+# Xcode user-specific state
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+
+# Local secrets and environment files
+.env
+.env.*
+*.local
+Secrets.*
+*.xcconfig.local
+
+# Build output
+DerivedData/
+build/
